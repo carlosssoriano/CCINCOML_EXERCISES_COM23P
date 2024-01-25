@@ -1,0 +1,4 @@
+1. Start
+2. Enter a number
+3. It will determine if the number you enter are even or odd
+4. End
